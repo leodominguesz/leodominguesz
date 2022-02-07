@@ -1,4 +1,4 @@
-## Olá! Eu sou Leonardo Domingues, cientista de dados!
+## Hello! I'm Leonardo Domingues, data scientist!
 
 <div align="center">
   <a href="https://github.com/leodominguesz">
